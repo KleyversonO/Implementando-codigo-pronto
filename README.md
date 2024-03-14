@@ -10,6 +10,13 @@ Cdp1 (Código pronto) é um site pronto que tem commo função aparecer uma cert
 
 Os outros são códigos utilizados para dar uma verdadeira função dadas aos códigos citados.
 
+## Cdp 2 Função 
+Cdp2 (Código pronto) é um site pronto que tem commo função aparecer uma janela especifica após clicar em um link.
+- O valor NULL serve para indicar que o valor da coluna ou da expressão não foi informado, pois significa ausência de valor.
+
+- A propriedade position , encontrada no CSS, define como um elemento pode ser posicionado
+
+- O win serve para abrir a janela. junto do href serve para abrir uma pagina especifica.
 
 ## Tecnologias utilizadas 
 
