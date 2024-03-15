@@ -1,7 +1,7 @@
 # Implementando-codigo-pronto
 
-## Cdp 1 função
-Cdp1 (Código pronto) é um site pronto que tem commo função aparecer uma certa mensagem após 3 segundos de espera. 
+## [cdp1.html] (Cdp 1 função)
+Cdp1 (Código ponto) é um site pronto que tem commo função aparecer uma certa mensagem após 3 segundos de espera. 
 
 ![Site](vdi/vid.gif)
 
@@ -13,7 +13,7 @@ Cdp1 (Código pronto) é um site pronto que tem commo função aparecer uma cert
 
 Os outros são códigos utilizados para dar uma verdadeira função dadas aos códigos citados.
 
-## Cdp 2 Função 
+## [cdp2.html] (Cdp 2 Função) 
 Cdp2 (Código pronto) é um site pronto que tem commo função aparecer uma janela especifica após clicar em um link.
 
 ![Site](vdi/Meaw.gif)
