@@ -27,7 +27,6 @@ Cdp2 (Código pronto) é um site pronto que tem commo função aparecer uma jane
 ## Tecnologias utilizadas 
 
 * ``HTML 5``
-* ``CSS 3``
 * ``Github``
 * ``VsCode``
 * ``Microsoft Teams``
