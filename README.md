@@ -2,6 +2,11 @@
 
 ## Cdp 1 função
 Cdp1 (Código pronto) é um site pronto que tem commo função aparecer uma certa mensagem após 3 segundos de espera. 
+
+![Site](vdi/vdi.gif)
+
+![Site](vdi/vid.gif)
+
 - O elemento ( <var> ) representa uma variável em expressão matemática ou um contexto de programação.
 
 - O método setTimeout permite programar a execução de uma função para após um determinado tempo dado (nesse caso, 3 segungos após o clique). Esse método faz com que a função seja executada apenas uma vez.
