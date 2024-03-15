@@ -13,7 +13,7 @@ Cdp1 (Código ponto) é um site pronto que tem commo função aparecer uma certa
 
 Os outros são códigos utilizados para dar uma verdadeira função dadas aos códigos citados.
 
-## [cdp2.html] (cdp2.html) 
+## [cdp2.html](/cdp2.html)
 Cdp2 (Código pronto) é um site pronto que tem commo função aparecer uma janela especifica após clicar em um link.
 
 ![Site](vdi/Meaw.gif)
