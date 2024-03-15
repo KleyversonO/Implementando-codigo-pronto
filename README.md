@@ -1,6 +1,6 @@
 # Implementando-codigo-pronto
 
-## [cdp1.html] (cdp1.html)
+## [cdp1.html](/cdp1.html)
 Cdp1 (Código ponto) é um site pronto que tem commo função aparecer uma certa mensagem após 3 segundos de espera. 
 
 ![Site](vdi/vid.gif)
